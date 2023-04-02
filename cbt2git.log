@@ -1,0 +1,10 @@
+2023-04-03 01:05:18.805022 - Initialized conversion of CBT548
+2023-04-03 01:05:18.860990 - Received CBT.V504.FILE548.PDS from FILE548.XMI 
+2023-04-03 01:05:18.863868 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:05:18.865036 - Found $$INDEX.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/$$INDEX
+2023-04-03 01:05:18.866105 - Found $ASMCL.jcl (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/$ASMCL
+2023-04-03 01:05:18.867150 - Found @FILE548.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/@FILE548
+2023-04-03 01:05:18.868251 - Found RXSIQRY.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/RXSIQRY
+2023-04-03 01:05:18.869223 - Found RXSLEEP.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/RXSLEEP
+2023-04-03 01:05:18.870191 - Found RXV2DEV.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/RXV2DEV
+2023-04-03 01:05:18.871117 - Found RXWTO.txt (text/plain) in CBT.V504.FILE548.PDS, moved to PDS/RXWTO
